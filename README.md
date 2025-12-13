@@ -4,9 +4,9 @@ Proyecto base de Hardhat para compilar, testear y desplegar contratos en red loc
 
 ## Contrato Desplegado:
 
-Dirección del contrato: 0x1489412c20005c444d56f89b3ac59e27df3d30e8
-Red: Sepolia Testnet
-Explorador: [Ver en Etherscan](https://sepolia.etherscan.io/address/0x1489412c20005c444d56f89b3ac59e27df3d30e8)
+- Dirección del contrato: 0x1489412c20005c444d56f89b3ac59e27df3d30e8
+- Red: Sepolia Testnet
+- Explorador: [Ver en Etherscan](https://sepolia.etherscan.io/address/0x1489412c20005c444d56f89b3ac59e27df3d30e8)
 
 ## 1) Estructura del proyecto
 
